@@ -1,0 +1,23 @@
+Git commands and their functions: 
+git init: To create a local repository 
+git add: This command is used to add one or more files to the git. File names
+can be seperated by ,
+git rm: This command is used to remove files from the directory.
+git commit: This command saves all the changes written in the directory 
+and creates a checkpoint at that point. 
+git status: This command is used to display the status of a file.
+git reset: This command resets the directory to the state of the last commit.
+git pull: This command is used to fetch file from remote repository and merges 
+these files with the local repository.
+git push: This command is used to push all modified objects to the remote
+repository.
+git remote: This command is used to display all the remote version of your 
+repository.
+git archive: This command is used to create a zip or tar file. 
+git gc: It is the garbage collector of our repository and it is used to optimize 
+our repository.
+git log: This command displays the list of commits along with corresponding
+details.
+git tag: This command is used to tag or add a comment to a specific commit.
+git clone: This command is used to create a copy of a repository from a remote 
+repository.
